@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506346352 source:g:\programming\lab01-ctofconversion\main.cpp
+	<iostream>
+	<iomanip>
+
